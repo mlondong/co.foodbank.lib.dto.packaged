@@ -11,7 +11,7 @@ public interface IPackaged {
 
     String getId();
 
-    Collection<Item> getProduct();
+    Collection<Item> getItem();
 
     Long getUnits();
 

@@ -1,7 +1,6 @@
 package co.com.foodbank.packaged.item;
 
 import co.com.foodbank.contribution.dao.ContributionData;
-import co.com.foodbank.product.dto.IProduct;
 import co.com.foodbank.product.dto.ProductData;
 
 /**
@@ -29,7 +28,7 @@ public class Item {
     }
 
 
-    public IProduct getProduct() {
+    public ProductData getProduct() {
         return product;
     }
 
