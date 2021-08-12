@@ -21,6 +21,14 @@
 
 	<dependencies>
 
+		<!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.20</version>
+		</dependency>
+
+		<!-- DTOs -->
 		<dependency>
 			<groupId>co.com.foodbank.product</groupId>
 			<artifactId>co.foodbank.lib.dto.product</artifactId>
@@ -32,6 +40,8 @@
 			<artifactId>co.foodbank.lib.dto.contribution</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+
+		<!-- DTOs -->
 
 	</dependencies>
 
