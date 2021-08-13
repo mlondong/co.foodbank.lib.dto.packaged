@@ -1,8 +1,8 @@
-package co.com.foodbank.packaged.dto;
+package co.com.foodbank.packaged.dto.interfaces;
 
 import java.util.Collection;
 import java.util.Date;
-import co.com.foodbank.packaged.item.Item;
+import co.com.foodbank.packaged.dto.item.Item;
 
 /**
  * @author mauricio.londono@gmail.com co.com.foodbank.pckage.v1.model 11/07/2021
