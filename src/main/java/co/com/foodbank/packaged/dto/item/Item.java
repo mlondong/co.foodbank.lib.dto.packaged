@@ -1,7 +1,7 @@
 package co.com.foodbank.packaged.dto.item;
 
 import co.com.foodbank.contribution.dto.response.ContributionData;
-import co.com.foodbank.product.dao.ProductData;
+import co.com.foodbank.product.dto.request.ProductData;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
